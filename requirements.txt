@@ -4,4 +4,5 @@ gunicorn==23.0.0
 packaging==24.1
 python-dotenv==1.0.1
 mysql-connector-python
+mailjet_rest
 
